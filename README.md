@@ -1,4 +1,4 @@
-# MasteryTOP
+# Champion Mastery TOP
 СhampioMasteryTOP project for RIOT API Challenge
 The site allows users to monitor information about their champions and champions masteries. It's a raw version of project, in future there will be a lot of statictics.
 
